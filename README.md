@@ -12,12 +12,6 @@ Throughout the race, drivers make pit stops to change tires, refuel, and make ad
 
 The race is typically divided into a predetermined number of laps, with drivers being awarded points based on their finishing position. The driver with the most points at the end of the season is crowned the Formula 1 World Champion.
 
-**Approach on anlayizing Formula1 Data**
-
-This project focuses on building a solution architecture for a data engineering solution using Azure Databricks, Azure Data Lake Gen2, Azure Data Factory, and Power BI. It covers topics such as creating and using Azure Databricks service, working with Databricks notebooks, configuring and monitoring Databricks clusters, using Delta Lake to implement a solution using Lakehouse architecture, and creating pipelines in Azure Data Factory to execute Databricks notebooks.
-
-Perofrmed data ingestion and transformation using PySpark and Spark SQL in Azure Databricks, implemented a solution for Lakehouse architecture using Delta Lake, and create Azure Data Factory pipelines to execute Databricks notebooks. Connected Azure Databricks to Power BI to create reports.
-
 **Data Source**
 http://ergast.com/mrd/
 
@@ -63,6 +57,12 @@ http://ergast.com/mrd/
  * Ability to delete individual records
  * Ability to see history and time travel
  * Ability to roll back to a previous version
+ 
+ **Approach on anlayizing Formula1 Data**
+
+This project focuses on building a solution architecture for a data engineering solution using Azure Databricks, Azure Data Lake Gen2, Azure Data Factory, and Power BI. It covers topics such as creating and using Azure Databricks service, working with Databricks notebooks, configuring and monitoring Databricks clusters, using Delta Lake to implement a solution using Lakehouse architecture, and creating pipelines in Azure Data Factory to execute Databricks notebooks.
+
+Perofrmed data ingestion and transformation using PySpark and Spark SQL in Azure Databricks, implemented a solution for Lakehouse architecture using Delta Lake, and create Azure Data Factory pipelines to execute Databricks notebooks. Connected Azure Databricks to Power BI to create reports.
 
 **Solution Architecture
 
