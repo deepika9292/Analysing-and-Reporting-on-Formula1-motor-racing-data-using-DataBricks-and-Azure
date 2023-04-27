@@ -23,6 +23,8 @@ http://ergast.com/mrd/
 
 **Data Ingestion Requirement**
 
+![alt text](https://github.com/deepika9292/Analysing-and-Reporting-on-Formula1-motor-racing-data-using-DataBricks-and-Azure/blob/main/Screen%20Shot%202023-04-27%20at%2010.59.36%20AM.png)
+
 * Ingest All 8 files into the data lake
 * Ingested data must have the schema applied
 * Ingested data must have audit columns
