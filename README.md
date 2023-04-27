@@ -1,6 +1,6 @@
 # Analysing-and-Reporting-on-Formula1-motor-racing-data-using-DataBricks-and-Azure
 
-###About Formula1 Race
+**About Formula1 Race**
 
 During a Formula 1 race, drivers compete against each other on a track that consists of multiple laps. The winner is the driver who completes all the laps first and crosses the finish line.
 
@@ -15,7 +15,7 @@ This project focuses on building a solution architecture for a data engineering 
 
 It includes ingestion and transforming data using PySpark and Spark SQL in Azure Databricks, implement a solution for Lakehouse architecture using Delta Lake, and create Azure Data Factory pipelines to execute Databricks notebooks. Connected with Azure Databricks from Power BI to create reports.
 
-##Approach on anlayizing Formula1 Data
+**Approach on anlayizing Formula1 Data**
 
 This project focuses on building a solution architecture for a data engineering solution using Azure Databricks, Azure Data Lake Gen2, Azure Data Factory, and Power BI. It covers topics such as creating and using Azure Databricks service, working with Databricks notebooks, configuring and monitoring Databricks clusters, using Delta Lake to implement a solution using Lakehouse architecture, and creating pipelines in Azure Data Factory to execute Databricks notebooks.
 
