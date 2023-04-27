@@ -1,4 +1,4 @@
-# Analysing-Formula1-motor-racing-data-using-DataBricks-and-Spark
+# Analysing Formula1 motor racing data using DataBricks and PySpark
 
 **About Formula1 Race**
 
