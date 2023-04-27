@@ -17,3 +17,15 @@ The race is typically divided into a predetermined number of laps, with drivers 
 This project focuses on building a solution architecture for a data engineering solution using Azure Databricks, Azure Data Lake Gen2, Azure Data Factory, and Power BI. It covers topics such as creating and using Azure Databricks service, working with Databricks notebooks, configuring and monitoring Databricks clusters, using Delta Lake to implement a solution using Lakehouse architecture, and creating pipelines in Azure Data Factory to execute Databricks notebooks.
 
 Perofrmed data ingestion and transformation using PySpark and Spark SQL in Azure Databricks, implemented a solution for Lakehouse architecture using Delta Lake, and create Azure Data Factory pipelines to execute Databricks notebooks. Connected Azure Databricks to Power BI to create reports.
+
+**Data Source**
+http://ergast.com/mrd/
+
+**Data Ingestion Requirement**
+
+* Ingest All 8 files into the data lake
+* Ingested data must have the schema applied
+* Ingested data must have audit columns
+* Ingested data must be stored in columnar format (i.e., Parquet)
+* Must be able to analyze the ingested data via SQL
+* Ingestion logic must be able to handle incremental load
