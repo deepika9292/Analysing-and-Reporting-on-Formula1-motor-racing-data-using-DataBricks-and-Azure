@@ -64,6 +64,6 @@ http://ergast.com/mrd/
 
 **Solution Architecture
 
-![alt text]
+![alt text](https://github.com/deepika9292/Analysing-and-Reporting-on-Formula1-motor-racing-data-using-DataBricks-and-Azure/blob/main/Screen%20Shot%202023-04-27%20at%2010.25.51%20AM.png)
 
 
