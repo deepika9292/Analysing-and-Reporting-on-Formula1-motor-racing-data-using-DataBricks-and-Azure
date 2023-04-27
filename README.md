@@ -1,4 +1,4 @@
-# Analysing-and-Reporting-on-Formula1-motor-racing-data-using-DataBricks-and-Azure
+# Analysing-Formula1-motor-racing-data-using-DataBricks-and-Azure
 
 **About Formula1 Race**
 
